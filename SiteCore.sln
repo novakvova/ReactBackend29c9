@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteCore", "SiteCore\SiteCore.csproj", "{206EB672-A8EF-4ED7-A36C-FBA75255C1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteApi", "WebSiteApi\WebSiteApi.csproj", "{796157E8-092D-4AD5-AFC7-CB58517BF6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206EB672-A8EF-4ED7-A36C-FBA75255C1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206EB672-A8EF-4ED7-A36C-FBA75255C1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206EB672-A8EF-4ED7-A36C-FBA75255C1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206EB672-A8EF-4ED7-A36C-FBA75255C1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796157E8-092D-4AD5-AFC7-CB58517BF6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796157E8-092D-4AD5-AFC7-CB58517BF6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796157E8-092D-4AD5-AFC7-CB58517BF6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796157E8-092D-4AD5-AFC7-CB58517BF6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86FC1BB5-6121-4B6E-91D3-B7C7987A10E8}
+	EndGlobalSection
+EndGlobal
