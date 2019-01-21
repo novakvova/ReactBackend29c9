@@ -57,6 +57,8 @@ namespace WebSiteApi
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseMvc();
+
+            SeederDB.SeedDataByAsService(app.ApplicationServices);
         }
     }
 }
